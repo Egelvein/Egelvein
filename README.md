@@ -3,7 +3,7 @@
 <h3 align="center">22 y. o. programmer, ML and CV enthusiast from Earth🌍</h3>  
 
 - 🌱 I’m currently learning **ML**, **CV**, **DS** and **Deutsch**
-- 🔭 I’m currently working as **Software engineer** in good small company
+- 🔭 I’m currently working as **Software engineer** in a good small company
 - 🗺️ I speak Russian (native), English (B2), German (A1)
 - 📫 How to reach me: sisla00@protonmail.com
 
