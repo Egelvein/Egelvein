@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ML**, **CV**, **DS** and **Deutsch**
 - 🔭 I’m currently working as **Software engineer** in a good small company
-- 🗺️ I speak Russian (native), English (B2), German (A1)
+- 🗺️ I speak Russian (native), English (B2), German (A2)
 - 📫 How to reach me: sisla00@protonmail.com
 
 # **Languages**  
