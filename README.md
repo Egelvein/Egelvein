@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I’m Viacheslav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">23 y. o. programmer, ML and CV enthusiast from Earth🌍</h3>  
+<h3 align="center">24 y. o. programmer, ML and CV enthusiast from Earth🌍</h3>  
 <h3 align="center">Student of ITMO Univesity</h3>  
 
 - 🌱 I’m currently learning **ML**, **CV** and **DS**
