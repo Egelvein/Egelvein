@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I’m Viacheslav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">24 y. o. programmer, ML and CV enthusiast from Earth🌍</h3>  
-<h3 align="center">Student of NSYSU Univesity</h3>  
+<h3 align="center">Student of NSYSU University</h3>  
 
 - 🌱 I’m currently learning **ML**, **CV** and **DS**
-- 🔭 I’m currently working as **Software engineer** in a good small company
+- 🔭 I’m currently working as **AI engineer** in a good small company
 - 🗺️ I speak Russian (native), English (B2), German (A2)
 - 📫 How to reach me: sisla00@protonmail.com
 
